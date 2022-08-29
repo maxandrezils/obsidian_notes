@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9c790a33118b82ca",
+        "id": "e3e70522171d0d1f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Untitled.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -40,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +95,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Untitled.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -128,6 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c790a33118b82ca",
-  "lastOpenFiles": []
+  "active": "e3e70522171d0d1f",
+  "lastOpenFiles": [
+    "QA/REST.md",
+    "QA/QA Merchant -- New Starter.md",
+    "review/Obsidian Review.md",
+    "2022-08-29.md",
+    "Templates/a.md",
+    "README.md",
+    "new file.md",
+    "how to guides/Untitled.md",
+    "Templates/Article.md",
+    "Templates/another_basic _template.md"
+  ]
 }
