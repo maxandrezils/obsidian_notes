@@ -1,4 +1,4 @@
-# Overview of Obsidian + Github
+# Overview of Github + Obsidian  (or GitHub++) 
 ## Introduction
 #Obsidian is a powerful **knowledge base** on top of  
 a **local folder** of plain text Markdown files.
@@ -55,7 +55,7 @@ There are also plugins to extend the templating functionality should you wish to
 
 ## Usability
 
--   Design focuses on 'Zen mode experience' no UI - only editing, you can add more functionality and with plugins
+- Design focuses on 'Zen mode experience' no UI - only editing, you can add more functionality and with plugins
 -   depending on your use-case 
 	- just editing how-to's: Easy
 	- creating a graph view and setup + learing all the keyboard shortcuts: Medium to Hard
@@ -65,6 +65,9 @@ There are also plugins to extend the templating functionality should you wish to
 - etc.
 - Plugins for those that want them.
 - Backticks [[2022-08-29]] (linking to other files)
+> [!Info]
+> Call out blocks are also supported
+> 
 
 ## Usage of MD or standard wiki languages
 
@@ -109,3 +112,8 @@ from setup.pretty_print import pretty_print_response
 
 
 ## Additional Features
+
+
+## Final Notes
+Don't like obsidian, use any IDE or editor (even vim) since it is just a git repo of markdown files
+Should we want to migrate  it should be relatively easy (if time consuming)
