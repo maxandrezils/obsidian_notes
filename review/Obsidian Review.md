@@ -47,7 +47,6 @@ There are also plugins to extend the templating functionality should you wish to
 
 -   All workflow related tasks would have to be done with Github + Templating (to insert things like status, last updated, etc)
 ## Environment (Cloud vs in-House)
-
 -   Local file system.
 ## History logs and recover data
 
@@ -112,7 +111,9 @@ from setup.pretty_print import pretty_print_response
 
 
 ## Additional Features
-
+- Github has a fuzzy finder (press t)
+- Add the chrome extension Octotree to view a fileviewer to Github
+- see more here: https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
 
 ## Final Notes
 Don't like obsidian, use any IDE or editor (even vim) since it is just a git repo of markdown files
