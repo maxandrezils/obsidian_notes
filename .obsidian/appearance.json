@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Baseline",
+  "theme": "moonstone",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "accentColor": "#aa9d9d",
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "baseFontSizeAction": true,
+  "showRibbon": true
+}

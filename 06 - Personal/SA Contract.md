@@ -1,0 +1,2 @@
+- Fewer leave days from 24 to 22
+- The policy for family responsibility leave will be the UK policy, the closer the person is to you, the more days are allocated.

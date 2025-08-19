@@ -1,0 +1,9 @@
+- create a separate file for each permission type that can be edited
+- Create users for each role
+	- disable a permission and check the functionality
+		- log in as manager => 
+	- reenable the permission and check the functionality
+	- backoffice updates would be nice but its a bit extra
+- Allocate to other user to process
+- view/edit Bank detail
+- Amend Fee

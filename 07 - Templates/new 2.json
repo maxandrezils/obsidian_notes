@@ -1,0 +1,1330 @@
+{
+  "ops": [
+    {
+      "insert": "PAP+GP+Vision+0\nMedical+Report\nPatient+Details\nMRS+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "JENNIE"
+    },
+    {
+      "insert": "+.\n"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Name:"
+    },
+    {
+      "insert": "+Date+of+birth:+15+Apr+1993\nNORTHCOTT\n2+CLAXHEUGH+COTTAGES,+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "SUNDERLAND,"
+    },
+    {
+      "insert": "+SR4\nSex:+Female+Address:\nORN\nNHS+number:+9435439748\nClient+Reference:+—+sdfjlklkjlkjddd\nDate+patient+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "first"
+    },
+    {
+      "insert": "+registered+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "with"
+    },
+    {
+      "insert": "+the+GP+practice:\nInstruction+Details\nRequesting+Party\nRequested\nConditions\nReference+Number+10486690\nPatient+Profile\n19+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2019\nx+18+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2019+.\nHeight+.+O/E+-+height,+2.01\nO/E+-+height,+1.6+m\nm\n19+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2019\n.+19+May+2018+18+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2019+.+19+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2019\nWeight+.+.+O/E+-+weight,+105+.\nO/E+-+weight,+74+kg+|+O/E+-+weight,+75+kg+kg+O/E+-+weight,+74+kg\nDisclaimer:+Medi2data+is+a+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "brand"
+    },
+    {
+      "insert": "+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "name"
+    },
+    {
+      "insert": "+for+MediData+Exchange+Limited.+MediData\nExchange+Limited+cannot+be+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "held"
+    },
+    {
+      "insert": "+responsible+for+the+content+of+this+report+as+the+data\nredaction+process+is+approved+by+the+Data+Controller.\n"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Name:"
+    },
+    {
+      "insert": "+MRS+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "JENNIE"
+    },
+    {
+      "insert": "+NORTHCOTT\nDate+of+birth:+15+Apr+1993\nSex:+Female\nAddress:+2+CLAXHEUGH+COTTAGES,+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "SUNDERLAND,"
+    },
+    {
+      "insert": "+SR4+ORN\nNHS+number:+9435439748\nOfficial+-+Sensitive+Page:1\n\nPAP+GP+Vision+0\n19+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2019\nO/E+-+weight,+97+kg\n01+Jan+2024\nO/E+-+weight,+90+kg\n19+May+2018+18+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2019+19+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2019+19+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2019\nBMI+Body+mass+index,+Body+mass+index,+Body+mass+index,+Body+mass+index,\n28.9+kg/m2+29.2+kg/m2+25.9+kg/m2+28.9+kg/m2\n19+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2019+01+Jan+2024\nBody+mass+index,+Body+mass+index,\n37.8+kg/m2+22.2+kg/m2\n01+Jan+2024\n.+18+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2019+18+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2019+01+Oct+2019\nSmoking+Never+smoked\nCurrent+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "smoker"
+    },
+    {
+      "insert": "+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Smoker"
+    },
+    {
+      "insert": "+Ex+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "smoker"
+    },
+    {
+      "insert": "\ntobacco\n31+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Jul"
+    },
+    {
+      "insert": "+2023+31+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Jul"
+    },
+    {
+      "insert": "+2023\nAlcohol+.+.\nBinge+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "drinker"
+    },
+    {
+      "insert": "+Health+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "ed."
+    },
+    {
+      "insert": "+-+alcohol\n18+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2019+21+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2022+20+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Mar"
+    },
+    {
+      "insert": "+2023+20+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Mar"
+    },
+    {
+      "insert": "+2023\nSystolic+Blood\nSystolic+arterial\npressure,+170\nSystolic+arterial\npressure,+120\nSystolic+arterial\npressure,+120\nSystolic+arterial\npressure,+121\nPressure+|\nDiastolic:+Blood+mmHg+/+mmHg+/+mmHg+/+mmHg+/\nPressure+Diastolic+arterial+Diastolic+arterial+Diastolic+arterial+Diastolic+arterial\npressure,+80+pressure,+80+pressure,+80+pressure,+83\nmmHg+mmHg+mmHg+mmHg\n24+May+2023+24+May+2023+01+Jan+2024+11+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Mar"
+    },
+    {
+      "insert": "+2024\nSystolic+arterial+Systolic+arterial+Systolic+arterial+Systolic+arterial\npressure,+100+pressure,+122+pressure,+125+pressure,+120\nmmHg+/+mmHg+/+mmHg+/+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "mmHg+"
+    },
+    {
+      "insert": "/\nDiastolic+arterial+Diastolic+arterial+Diastolic+arterial+Diastolic+arterial\npressure,+50+pressure,+80+pressure,+80+pressure,+60\nmmHg+mmHg+mmHg+mmHg\nDisclaimer:+Medi2data+is+a+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "brand"
+    },
+    {
+      "insert": "+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "name"
+    },
+    {
+      "insert": "+for+MediData+Exchange+Limited.+MediData\nExchange+Limited+cannot+be+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "held"
+    },
+    {
+      "insert": "+responsible+for+the+content+of+this+report+as+the+data\nredaction+process+is+approved+by+the+Data+Controller.\n"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Name:"
+    },
+    {
+      "insert": "+MRS+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "JENNIE"
+    },
+    {
+      "insert": "+NORTHCOTT\nDate+of+birth:+15+Apr+1993\nSex:+Female\nAddress:+2+CLAXHEUGH+COTTAGES,+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "SUNDERLAND,"
+    },
+    {
+      "insert": "+SR4+ORN\nNHS+number:+9435439748\nOfficial+-+Sensitive\n"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Page"
+    },
+    {
+      "insert": "+:+2\n\nPAP+GP+Vision+0\n11+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Mar"
+    },
+    {
+      "insert": "+2024\nSystolic+arterial\npressure,+123\nmmHg+/\nDiastolic+arterial\npressure,+53\nmmHg\n11+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Mar"
+    },
+    {
+      "insert": "+2024\nSystolic+arterial\npressure,+125\nmmHg+/\nDiastolic+arterial\npressure,+65\nmmHg\n11+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Mar"
+    },
+    {
+      "insert": "+2024\nSystolic+arterial\npressure,+127\nmmHg+/\nDiastolic+arterial\npressure,+57\nmmHg\n11+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Mar"
+    },
+    {
+      "insert": "+2024\nSystolic+arterial\npressure,+129\nmmHg+/\nDiastolic+arterial\npressure,+59\nmmHg\n01+Apr+2024\nSystolic+arterial\npressure,+126\nmmHg+/\nDiastolic+arterial\npressure,+76\nmmHg\nSignificant+Conditions\nActive\nAnxiety+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "with"
+    },
+    {
+      "insert": "+big+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "sad"
+    },
+    {
+      "insert": "+(diagnosed:+13+Oct+2023)\nAttendance+allowance+(diagnosed:+15+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2022)\nBlood+glucose+result+(diagnosed:+24+May+2023)\nClosed+fracture+rib+(diagnosed:+01+Jan+2024)\nDiabetes+mellitus,+adult+onset,+no+mention+of+complication+(diagnosed:+02+Nov+2022)\nDifficulty+in+walking+(diagnosed:+18+Apr+2024)\nElbow+fracture+-+closed+(diagnosed:+01+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Mar"
+    },
+    {
+      "insert": "+2024)\nFactory+inspector+(diagnosed:+15+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2022)\nFibromyalgia+(diagnosed:+08+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2023)\nFibromyalgia+-+problem+(diagnosed:+15+Dec+2023)\nH/O:+asthma+(diagnosed:+31+Oct+2023)\nH/O:+fracture+(diagnosed:+21+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2022)\nPatient+registration+data+verified+(diagnosed:+22+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Jul"
+    },
+    {
+      "insert": "+2024)\nSchizophrenic+disorders+(diagnosed:+08+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2023)\nDisclaimer:+Medi2data+is+a+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "brand"
+    },
+    {
+      "insert": "+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "name"
+    },
+    {
+      "insert": "+for+MediData+Exchange+Limited.+MediData\nExchange+Limited+cannot+be+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "held"
+    },
+    {
+      "insert": "+responsible+for+the+content+of+this+report+as+the+data\nredaction+process+is+approved+by+the+Data+Controller.\n"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Name:"
+    },
+    {
+      "insert": "+MRS+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "JENNIE"
+    },
+    {
+      "insert": "+NORTHCOTT\nDate+of+birth:+15+Apr+1993\nSex:+Female\nAddress:+2+CLAXHEUGH+COTTAGES,+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "SUNDERLAND,"
+    },
+    {
+      "insert": "+SR4+ORN\nNHS+number:+9435439748\nOfficial+-+Sensitive+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Page"
+    },
+    {
+      "insert": "+:3\n\nPAP+GP+Vision+0\nSore+throat+symptom+(diagnosed:+02+Nov+2022)\nSuspected+asthma+(diagnosed:+15+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2022)\nType+2+diabetes+mellitus+(diagnosed:+06+Nov+2015)\nAllergies\n28+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Mar"
+    },
+    {
+      "insert": "+2024+-+H/O:+analgesic+allergy\n01+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Mar"
+    },
+    {
+      "insert": "+2024+-+H/O:+drug+allergy\n01+Jan+2024+-+H/O:+drug+allergy\n21+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2022+-+H/O:+penicillin+allergy\n04+Dec+2014+-+[X]Salicylates+causing+adverse+effects+in+therapeutic+use\nImmunisations\n01+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Mar"
+    },
+    {
+      "insert": "+2024+-+Tuberculosis+(BCG)+vaccination\n01+Jan+2024+-+Administration+of+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "first"
+    },
+    {
+      "insert": "+dose+of+SARS-CoV-2+vaccine\n09+Oct+2023+-+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "First"
+    },
+    {
+      "insert": "+anthrax+vaccination\n09+Oct+2023+-+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "First"
+    },
+    {
+      "insert": "+tick-borne+encephalitis+vaccination\n09+Oct+2023+-+Oral+typhoid+vaccination\n06+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2023+-+Tuberculosis+(BCG)+vaccination\n06+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2023+-+Administration+of+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "first"
+    },
+    {
+      "insert": "+dose+of+SARS-CoV-2+vaccine\n24+May+2023+-+1st+hepatitis+A+vaccination\n24+May+2023+-+Administration+of+second+dose+of+SARS-CoV-2+vacc\n20+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Mar"
+    },
+    {
+      "insert": "+2023+-+Administration+of+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "first"
+    },
+    {
+      "insert": "+dose+of+SARS-CoV-2+vaccine\n20+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Mar"
+    },
+    {
+      "insert": "+2023+-+Measles+vaccination\n20+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Mar"
+    },
+    {
+      "insert": "+2023+-+Administration+of+second+dose+of+SARS-CoV-2+vacc\n20+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Mar"
+    },
+    {
+      "insert": "+2023+-+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "First"
+    },
+    {
+      "insert": "+varicella+vaccination\n21+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2022+-+Administration+of+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "first"
+    },
+    {
+      "insert": "+dose+of+SARS-CoV-2+vacccine\n25+Jan+2022+-+Tuberculosis+(BCG)+vaccination\nConsultations\nBloods\nDisclaimer:+Medi2data+is+a+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "brand"
+    },
+    {
+      "insert": "+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "name"
+    },
+    {
+      "insert": "+for+MediData+Exchange+Limited.+MediData\nExchange+Limited+cannot+be+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "held"
+    },
+    {
+      "insert": "+responsible+for+the+content+of+this+report+as+the+data\nredaction+process+is+approved+by+the+Data+Controller.\n"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Name:"
+    },
+    {
+      "insert": "+MRS+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "JENNIE"
+    },
+    {
+      "insert": "+NORTHCOTT\nDate+of+birth:+15+Apr+1993\nSex:+Female\nAddress:+2+CLAXHEUGH+COTTAGES,+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "SUNDERLAND,"
+    },
+    {
+      "insert": "+SR4+0RN\nNHS+number:+9435439748\nOfficial+-+Sensitive+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Page:"
+    },
+    {
+      "insert": "+4\n\nPAP+GP+Vision+0\nTriglycerides\ntriglycerides,+3\nmmol/L\n17+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2019\nCreatinine+Serum+creatinine,\n50+umol/L\n24+May+2023+17+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2019\nSerum+Serum\ntriglycerides,+4\nmmol/L\n24+May+2023+17+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2019\nLDL+Serum+HDL+Serum+HDL\ncholesterol+level,+5+cholesterol+level,\nmmol/L+6.5+mmol/L\n24+May+2023+07+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2019\nSerum+LDL+Serum+LDL\nEEE+cholesterol+level,+cholesterol+level,\n50+mmol/L+6.5+mmol/L\n01+Apr+2024+01+Jan+2024+24+May+2023+12+Nov+2019\nHaemoglobin+Aic+Haemoglobin+A1c+Haemoglobin+Aic+Haemoglobin+Aic\nHbA1c+level+-+IFCC+level+-+IFCC+level+-+IFCC+level+-+IFCC\nstandardised,+56+standardised,+57+standardised,+55+standardised,+99\nmmol/mol+mmol/mol+mmol/mol+mmol/mol\n10+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2019\nHaemoglobin+Aic\nlevel+-+IFCC\nstandardised,+60\nmmol/mol\nReferrals\n01+Apr+2024+-+Dementia+test\nDisclaimer:+Medi2data+is+a+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "brand"
+    },
+    {
+      "insert": "+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "name"
+    },
+    {
+      "insert": "+for+MediData+Exchange+Limited.+MediData\nExchange+Limited+cannot+be+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "held"
+    },
+    {
+      "insert": "+responsible+for+the+content+of+this+report+as+the+data\nredaction+process+is+approved+by+the+Data+Controller.\n"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Name:"
+    },
+    {
+      "insert": "\nDate+of+birth:\nSex:\nAddress:\nNHS+number:\nMRS+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "JENNIE"
+    },
+    {
+      "insert": "+NORTHCOTT\n15+Apr+1993\nFemale\n2+CLAXHEUGH+COTTAGES,+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "SUNDERLAND,"
+    },
+    {
+      "insert": "+SR4+ORN\n9435439748\nOfficial+-+Sensitive\n"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Page:"
+    },
+    {
+      "insert": "+5\n\nPAP+GP+Vision+0\n31+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Jul"
+    },
+    {
+      "insert": "+2023+-+Binge+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "drinker"
+    },
+    {
+      "insert": "\n31+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Jul"
+    },
+    {
+      "insert": "+2023+-+Health+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "ed."
+    },
+    {
+      "insert": "+-+alcohol\n15+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Jun"
+    },
+    {
+      "insert": "+2023+-+Helicobacter+pylori+breath+test\n15+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Jun"
+    },
+    {
+      "insert": "+2023+-+Abdominal+aortic+aneurysm+screening+offered\n21+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2022+-+Mental+health+assessment\nAcute+medications\nRepeat+medications\nUnlinked+Information\n06+Nov+2015+-+Type+2+diabetes+mellitus\n15+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2022+-+Attendance+allowance\n21+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2022+-+H/O:+fracture\n15+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2022+-+Suspected+asthma\n15+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2022+-+Factory+inspector\n02+Nov+2022+-+Diabetes+mellitus,+adult+onset,+no+mention+of+complication\n02+Nov+2022+-+Sore+throat+symptom\n24+May+2023+-+Blood+glucose+result\n13+Oct+2023+-+Anxiety+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "with"
+    },
+    {
+      "insert": "+big+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "sad"
+    },
+    {
+      "insert": "\n08+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Sep"
+    },
+    {
+      "insert": "+2023+-+Schizophrenic+disorders\n31+Oct+2023+-+H/O:+asthma\n15+Dec+2023+-+Fibromyalgia+-+problem\n18+Apr+2024+-+Difficulty+in+walking\n01+Jan+2024+-+Closed+fracture+rib\n01+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Mar"
+    },
+    {
+      "insert": "+2024+-+Elbow+fracture+-+closed\n22+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Jul"
+    },
+    {
+      "insert": "+2024+-+Patient+registration+data+verified\nAppended+attachments\n27+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Jun"
+    },
+    {
+      "insert": "+2023+-+file.docx\nDisclaimer:+Medi2data+is+a+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "brand"
+    },
+    {
+      "insert": "+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "name"
+    },
+    {
+      "insert": "+for+MediData+Exchange+Limited.+MediData\nExchange+Limited+cannot+be+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "held"
+    },
+    {
+      "insert": "+responsible+for+the+content+of+this+report+as+the+data\nredaction+process+is+approved+by+the+Data+Controller.\n"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Name:"
+    },
+    {
+      "insert": "+MRS+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "JENNIE"
+    },
+    {
+      "insert": "+NORTHCOTT\nDate+of+birth:+15+Apr+1993\nSex:+Female\nAddress:+2+CLAXHEUGH+COTTAGES,+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "SUNDERLAND,"
+    },
+    {
+      "insert": "+SR4+0RN\nNHS+number:+9435439748\nOfficial+-+Sensitive+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Page:"
+    },
+    {
+      "insert": "+6\n\nUnsupported+attachments\nAdditional+questions\n*\nx\na\n1\n"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "last"
+    },
+    {
+      "insert": "+one+-\nAdditional+comments\nNo+additional+comment+added\n"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Name:"
+    },
+    {
+      "insert": "\nDate+of+birth:\nSex:\nAddress:\nNHS+number:\nDisclaimer:+Medi2data+is+a+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "brand"
+    },
+    {
+      "insert": "+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "name"
+    },
+    {
+      "insert": "+for+MediData+Exchange+Limited.+MediData\nExchange+Limited+cannot+be+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "held"
+    },
+    {
+      "insert": "+responsible+for+the+content+of+this+report+as+the+data\nredaction+process+is+approved+by+the+Data+Controller.\nMRS+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "JENNIE"
+    },
+    {
+      "insert": "+NORTHCOTT\n15+Apr+1993\nFemale\n2+CLAXHEUGH+COTTAGES,+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "SUNDERLAND,"
+    },
+    {
+      "insert": "+SR4+0RN\n9435439748\nOfficial+-+Sensitive+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Page:"
+    },
+    {
+      "insert": "+7\n\nPAP+GP+Vision+0\n¢+This+medical+record+relates+to+the+correct+patient+(\"Patient\")\n¢+This+medical+record+is+an+accurate+reflection+of+the+information+contained+in+the+electronic+medical+record+of+the\nPatient+at+the+date+this+medical+record+is+submitted\n¢+If+appropriate,+our+confidentiality+policies+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "have"
+    },
+    {
+      "insert": "+been+applied+to+producing+a+copy+of+this+medical+record\n¢+We+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "have"
+    },
+    {
+      "insert": "+not+willingly+redacted,+without+good+reason,+any+information+from+the+electronic+medical+record+of+the\nPatient+which+should+be+included+in+the+medical+record+being+submitted:+and\n¢+We+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "have"
+    },
+    {
+      "insert": "+reviewed+the+medical+record+and+it+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "does"
+    },
+    {
+      "insert": "+not+contain+reference+to+third+parties+or+any+Sensitive\nConditions+of+the+Patient.+We+acknowledge+that+the+‘Sensitive+Conditions’+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "are"
+    },
+    {
+      "insert": "+those+listed+in+the+TRUD\ndatabase+at+the+date+of+this+report.\nThis+report+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "does"
+    },
+    {
+      "insert": "+not+include+:\n*+undisclosed+conditions+of+the+Patient\n¢+undisclosed+symptoms+of+the+Patient\n*+medical+records+of+the+Patient+that+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "are"
+    },
+    {
+      "insert": "+not+relevant+to+requested+conditions+listed+in+“Patient+Info”\n¢+information+which+the+Patient+has+not+consented+to+being+disclosed+or+any+other+information+that+is+not+included\nin+the+Patient's+electronic+medical+records.\nSigned+off+by+PAP+GP+Vision+0,+None\nDisclaimer:+Medi2data+is+a+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "brand"
+    },
+    {
+      "insert": "+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "name"
+    },
+    {
+      "insert": "+for+MediData+Exchange+Limited.+MediData\nExchange+Limited+cannot+be+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "held"
+    },
+    {
+      "insert": "+responsible+for+the+content+of+this+report+as+the+data\nredaction+process+is+approved+by+the+Data+Controller.\n"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Name:"
+    },
+    {
+      "insert": "+MRS+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "JENNIE"
+    },
+    {
+      "insert": "+NORTHCOTT\nDate+of+birth:+15+Apr+1993\nSex:+Female\nAddress:+2+CLAXHEUGH+COTTAGES,+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "SUNDERLAND,"
+    },
+    {
+      "insert": "+SR4+ORN\nNHS+number:+9435439748\nOfficial+-+Sensitive+"
+    },
+    {
+      "attributes": {
+        "background": "yellow"
+      },
+      "insert": "Page:"
+    },
+    {
+      "insert": "+8\n\nLorem+ipsum\nLorem+ipsum+dolor+sit+amet,+consectetur+adipiscing+elit.\nNunc+ac+faucibus+odio.\nVestibulum+neque+scelerisque+sit+amet+ligula+congue+molestie+Praesent+ut\nNullam+at+porttitor+arcu,+nec+lacinia+nisi.+Ut+ac+dolor+vitae+odio+interdum\ncondimentum.+Vivamus+dapibus+sodales+ex,+vitae+malesuada+ipsum+cursus\nconvallis.+Maecenas+sed+egestas+nulla,+ac+condimentum+orci.+Mauris+diam+felis,\nvulputate+ac+suscipit+et,+iaculis+est.+Curabitur+semper+arcu+ac+ligula+semper,+nec+luctus\nnis!+blandit.+Integer+lacinia+ante+ac+libero+lobortis+imperdiet.+Nullam+mollis+convallis+ipsum,\nac+accumsan+nunc+vehicula+vitae.+Nulla+eget+justo+in+felis+tristique+fringilla.+Morbi+sit+amet\ntortor+quis+risus+auctor+condimentum.+Morbi+in+ullamcorper+elit.+Nulla+iaculis+tellus+sit+amet\nmauris+tempus+fringilla.\nMaecenas+mauris+lectus,+lobortis+et+purus+mattis,+blandit+dictum+tellus.\ne+Maecenas+lorem+quis+tellus+placerat\n¢+Nulla+facilisi.\ne+Aenean+congue+fringilla+justo+ut+aliquam.\ne+Mauris+id+ex+erat.+Nunc+vulputate+neque+vitae+justo+facilisis,+condimentum+ante\nsagittis.\ne¢+Morbi+viverra+semper+lorem+nec+molestie.\ne+Maecenas+tincidunt+est+efficitur+ligula+euismod,+sit+amet+ornare+est+vulputate.\n12\n10\nm+Column+1\n@+Column+2\n©+Column+3\nRow+1+Row+2+Row+3+Row+4\nco\na\nS\nN\n\nIn+mauris+justo.+vehicula+vel+pretium,+a+viverra+erat+efficitur.+Cras+aliquam\nest+ac+id+iaculis+dui+auctor.+pretium+neque+ligula,+et+pulvinar+placerat\net.+Nulla+nec+nunc+sit+amet+nunc+posuere+vestibulum.+Ut+id+neque+eget+tortor+mattis\ntristique.+Donec+ante+est,+blandit+sit+amet+tristique+vel,+lacinia+pulvinar+arcu.+Pellentesque\nscelerisque+fermentum+erat,+id+posuere+justo+pulvinar+ut.+Cras+id+sed+enim+aliquam\nlobortis.+Sed+lobortis+nisl+ut+efficitur+tincidunt.+Cras+justo+porttitor+quis+mattis+vel,\nultricies+ut+purus.+Ut+facilisis+et+lacus+—+cursus.\nIn+eleifend+velit+vitae+libero+sollicitudin+euismod.+Fusce+vitae+vestibulum+velit.+Pellentesque\nvulputate+lectus+quis+pellentesque+commodo.+Aliquam+erat+volutpat.+Vestibulum+in+egestas\nvelit.+Pellentesque+fermentum+nisl+vitae+fringilla+venenatis.+Etiam+id+mauris+vitae+orci\nultricies.\nCras+fringilla+ipsum+magna,+in+fringilla+dui+commodo+a.\nLorem+ipsum+Lorem+ipsum+|Lorem+ipsum\n1+In+eleifend+velit+vitae+libero+sollicitudin+euismod.+Lorem\n2+Cras+fringilla+ipsum+magna,+in+fringilla+dui+commodo+|lpsum\na.\n3+Aliquam+erat+volutpat.+Lorem\n4+Fusce+vitae+vestibulum+velit.+Lorem\n&+Etiam+vehicula+luctus+fermentum.+Ipsum\nEtiam+vehicula+luctus+fermentum.+In+vel+metus+congue,+pulvinar+lectus+vel,+fermentum+dui.\nMaecenas+ante+orci,+egestas+ut+aliquet+sit+amet,+sagittis+a+magna.+Aliquam+ante+quam,\npellentesque+ut+dignissim+quis,+laoreet+eget+est.+Aliquam+erat+volutpat.+Class+aptent+taciti\nsociosqu+litora+torquent+per+conubia+nostra,+per+inceptos+himenaeos.+Ut+ullamcorper\njusto+sapien,+in+cursus+libero+viverra+eget.+Vivamus+auctor+imperdiet+urna,+at+pulvinar+leo\n\nposuere+laoreet.+Suspendisse+neque+nisl,+fringilla+at+iaculis+scelerisque,+ornare+vel+dolor.+Ut\net+pulvinar+nunc.+Pellentesque+fringilla+mollis+efficitur.+Nullam+venenatis+commodo\nimperdiet.+Morbi+velit+neque,+semper+quis+lorem+quis,+efficitur+dignissim+ipsum.+Ut+ac\nlorem+sed+turpis+imperdiet+eleifend+sit+amet+id+sapien.\nLorem+ipsum+dolor+sit+amet,+consectetur+adipiscing\nelit.\nNunc+ac+faucibus+odio.+Vestibulum+neque+scelerisque+sit+amet+ligula+congue\nmolestie+Praesent+ut+Nullam+at+porttitor+arcu,+nec+lacinia+nisi.+Ut+ac+dolor\nvitae+odio+interdum+condimentum.+Vivamus+dapibus+sodales+ex,+vitae+malesuada+ipsum\ncursus+convallis.+Maecenas+sed+egestas+nulla,+ac+condimentum+orci.+Mauris+diam+felis,\nvulputate+ac+suscipit+et,+iaculis+est.+Curabitur+semper+arcu+ac+ligula+semper,+nec+luctus\nnis!+blandit.+Integer+lacinia+ante+ac+libero+lobortis+imperdiet.+Nullam+mollis+convallis+ipsum,\nac+accumsan+nunc+vehicula+vitae.+Nulla+eget+justo+in+felis+tristique+fringilla.+Morbi+sit+amet\ntortor+quis+risus+auctor+condimentum.+Morbi+in+ullamcorper+elit.+Nulla+iaculis+tellus+sit+amet\nmauris+tempus+fringilla.\nMaecenas+mauris+lectus,+lobortis+et+purus+mattis,+blandit\ndictum+tellus.\nMaecenas+lorem+quis+tellus+placerat+Nulla+facilisi.+Aenean+congue+fringilla+justo\nut+aliquam.+Mauris+id+ex+erat.+Nunc+vulputate+neque+vitae+justo+facilisis,+condimentum\nante+sagittis.+Morbi+viverra+semper+lorem+nec+molestie.+Maecenas+tincidunt+est+efficitur\nligula+euismod,+sit+amet+ornare+est+vulputate.\nIn+mauris+justo.+vehicula+vel+pretium,+a+viverra+erat+efficitur.+Cras+aliquam\nest+ac+id+iaculis+dui+auctor.+pretium+neque+ligula,+et+pulvinar+placerat\net.+Nulla+nec+nunc+sit+amet+nunc+posuere+vestibulum.+Ut+id+neque+eget+tortor+mattis\ntristique.+Donec+ante+est,+blandit+sit+amet+tristique+vel,+lacinia+pulvinar+arcu.+Pellentesque\nscelerisque+fermentum+erat,+id+posuere+justo+pulvinar+ut.+Cras+id+sed+enim+aliquam\nlobortis.+Sed+lobortis+nis!+ut+efficitur+tincidunt.+Cras+justo+porttitor+quis+mattis+vel,\nultricies+ut+purus.+Ut+facilisis+et+lacus+cursus.\nIn+eleifend+velit+vitae+libero+sollicitudin+euismod.\nFusce+vitae+vestibulum+velit.+Pellentesque+vulputate+lectus+quis+pellentesque+commodo.\nAliquam+erat+volutpat.+Vestibulum+in+egestas+velit.+Pellentesque+fermentum+nisl+vitae\nfringilla+venenatis.+Etiam+id+mauris+vitae+orci+ultricies.+Cras+fringilla+ipsum\nmagna,+in+fringilla+dui+commodo+a.\nEtiam+vehicula+luctus+fermentum.+In+vel+metus+congue,+pulvinar+lectus+vel,+fermentum+dui.\nMaecenas+ante+orci,+egestas+ut+aliquet+sit+amet,+sagittis+a+magna.+Aliquam+ante+quam,\npellentesque+ut+dignissim+quis,+laoreet+eget+est.+Aliquam+erat+volutpat.+Class+aptent+taciti\nsociosqu+litora+torquent+per+conubia+nostra,+per+inceptos+himenaeos.+Ut+ullamcorper\n\n\n"
+    }
+  ]
+}
