@@ -1,4 +1,4 @@
 # Automation Reporting
-- Whats covered
+- What's covered
 - last run
 - 
